@@ -1,1 +1,1 @@
-#Root Module for Spring MVC apps
+# Spring MVC Root Module
